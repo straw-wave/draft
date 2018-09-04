@@ -61,3 +61,7 @@ new plugins are installed (**Settings dialog | Keymap**). There is a good chance
 
 ### Color schemes
 Modify existing color schemes or create new ones to make sure that working with Dart and Flutter Log will be comfortable. To check the color schemes, open the Settings dialog and go to **Editor | Color Scheme** and select **Dart** of **Flutter**.
+
+---
+
+**Next:** During the stages of your Flutter application development you will work with tool windows. Some of them will be familiar to developers who have already worked in IntelliJ IDEA, however there are some new tool windows that are designed specifically for Flutter and Dart plugins.
