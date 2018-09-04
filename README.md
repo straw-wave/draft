@@ -1,4 +1,4 @@
-# Draft repository: Flutter plugin
+# Flutter and IntelliJ IDEA
 
 1. [Install and set up Flutter and Dart plugins](https://github.com/straw-wave/draft/blob/master/content/install-and-set-up-plugins.md "")
 2. Tool windows
