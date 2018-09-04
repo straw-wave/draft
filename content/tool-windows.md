@@ -45,3 +45,6 @@ IDE: code completion, structure view, warnings, syntax highlighting and so on.
 
 ![Dart Analysis Tool Window](https://github.com/straw-wave/draft/blob/master/img/dart_analysis_tool_window.png)
 
+---
+
+**Next:** These tools should facilitate the development process. Let us take a look at the features that IntelliJ IDEA provides Flutter developers with and figure out the ways you can speed up the applications building.
