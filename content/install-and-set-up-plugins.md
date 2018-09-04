@@ -22,7 +22,7 @@ Once you have installed the plugins, you must specify proper SDK paths.
 ### To configure the Flutter plugin:
 1. Press ``Ctrl+Alt+S`` (Win, Linux) or ``⌘,`` (Mac OS) to open the **Settings** dialog and go to **Languages & Frameworks | 
 Flutter**.
-2. Specify the Flutter SDK path in the field at the top of the window. Once it is done, the current version shall be displayed.
+2. Specify the Flutter SDK path in the field at the top of the window. Once it is done, the current version is displayed.
 ![Flutter SDK Path](https://github.com/straw-wave/draft/blob/master/img/flutter_sdk_path_1.png)
 3. Click **OK**.
 
@@ -31,16 +31,16 @@ Flutter**.
 2. Specify the Dart SDK path in the field at the top of the window. Note that this path is actually inside of your Flutter SDK 
 directory. 
 For instance, if the Flutter SDK location is ``\src\flutter-sdk\flutter``, the Dart SDK location will be 
-``\src\flutter-sdk\flutter\bin\cache\dart-sdk``. Once the path is specified, the current version should be displayed.
+``\src\flutter-sdk\flutter\bin\cache\dart-sdk``. Once the path is specified, the current version is displayed.
 ![Dart SDK Path](https://github.com/straw-wave/draft/blob/master/img/dart_sdk_path_1.png)
-3. Click OK.
+3. Click **OK**.
 
 ## Additional plugins configuration
 
 Now you are all set to start working on your Flutter projects in IntelliJ IDEA. However, it might be a sound practice to configure your 
 environment thoroughly. To study possible settings you can use the ``Ctrl+Alt+S`` (Win, Linux) or ``⌘,`` (Mac OS) shortcuts to open the 
 **Settings** dialog and type Flutter or Dart in the search field. Your IDE will display the plugins-specific settings, from color 
-schemes to live templates. Here are some things to pay attention to in this dialog.
+schemes to live templates. Here are some things to pay attention to.
 
 ### Flutter-specific settings
 IntelliJ IDEA allows you to configure a number of Flutter-specific settings that help to customize your working environment. For 
@@ -57,8 +57,7 @@ according to your preferences.
 
 ### Shortcuts
 Shortcuts are time savers that have become an integral part of IntelliJ IDEA usage. Do not forget to explore the Keymap once your 
-new plugins have been installed (**Settings dialog | Keymap**).
+new plugins are installed (**Settings dialog | Keymap**). There is a good chance that shortkeys for **Hot Reload** or **Reformat Code with dartfmt** will be used often.
 
 ### Color schemes
-Modify existing color schemes or create new ones to make sure that working with Dart and Flutter Log will be as comfortable as 
-possible. To check the color schemes, open the Settings dialog and go to **Editor | Color Scheme** and select **Dart** of **Flutter**.
+Modify existing color schemes or create new ones to make sure that working with Dart and Flutter Log will be comfortable. To check the color schemes, open the Settings dialog and go to **Editor | Color Scheme** and select **Dart** of **Flutter**.
