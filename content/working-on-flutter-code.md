@@ -73,6 +73,22 @@ Curly brackets can be divided by many lines of code in your app, which makes it 
 invocation. The IDE displays special comments denoting classes and widgets.
 
 ![Dart Analysis server comments](https://github.com/straw-wave/draft/blob/master/img/3_dart_analysis_server_comments.png)
+
+## Using packages
+There are many open-source packages that you can use in your projects. Thus, when you add a package name into the dependencies list, IntelliJ IDEA allows to pull the package into the project in an elegant way: just click **Packages get** at the top of the window. The console should display the output of the following kind:
+```
+Running "flutter packages get" in demo_project... 
+Process finished with exit code 0
+```
+
+![Packages get](https://github.com/straw-wave/draft/blob/master/img/3_packages_get.png)
+
+## Importing libraries
+When you create a new widget you can import the required Dart library in an easy way: just press ``Alt+Enter`` (Win, Linux) or ``⌘↩`` (Mac OS) and select the library you need. IntelliJ IDEA will perform the import for you.
+
+## Dart Analysis tool window
+Any issues that might arise during your Flutter project development are displayed in the Dart Analysis tool window. You can sort the errors by severity or location and use the Dart Problems Filter that allows to fliter out some error messages if necessary.
+
 ---
 
 **Next:** Some text...
