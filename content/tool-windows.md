@@ -25,7 +25,7 @@ itself, so you can actually see where in the code (whether it is your code or th
 configured. This way, even the huge widgets tree can be handled in an elegant way: selecting a widget of your interest helps both to 
 navigate at ease and to save time.
 
-![Flutter Inspector Tool Window](https://github.com/straw-wave/draft/blob/master/img/flutter_inspector_tool_window.png)
+![Flutter Inspector Tool Window](https://github.com/straw-wave/draft/blob/master/img/2_inspector_tool_window.png)
 
 ## Run Tool Window
 
