@@ -47,4 +47,4 @@ IDE: code completion, structure view, warnings, syntax highlighting and so on.
 
 ---
 
-**Next:** These tools should facilitate the development process. Let us take a look at the features that IntelliJ IDEA provides Flutter developers with and figure out the ways you can speed up the applications building.
+**Next:** These tools should facilitate the development process. Let us take a look at the [features](https://github.com/straw-wave/draft/blob/master/content/working-on-flutter-code.md) that IntelliJ IDEA provides Flutter developers with and figure out the ways you can speed up the applications building.
