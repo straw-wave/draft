@@ -91,4 +91,4 @@ Any issues that might arise during your Flutter project development are displaye
 
 ---
 
-**Next:** When the plugins are installed and the environment is configured, you can create a new project and start the development process.
+**Next:** When the plugins are installed and the environment is configured, you can [create a new project](https://github.com/straw-wave/draft/blob/master/content/creating-projects.md) to start the development process.
