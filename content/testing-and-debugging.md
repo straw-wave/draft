@@ -38,11 +38,41 @@ You have checked the widget's position and its properties, and in case if there 
 
 Use the **Debug Paint** mode to understand how your widgets are laid out on the screen. Click <img src="https://github.com/straw-wave/draft/blob/master/img_final/5_debug_paint.png" alt="Debug Paint" width="18"/> button to activate this mode.
 <p align="center">
-<img src="https://github.com/straw-wave/draft/blob/master/img_final/5_debug_paint_mode.png" alt="Debug Paint" width="400"/>
+<img src="https://github.com/straw-wave/draft/blob/master/img_final/5_debug_paint_mode.png" alt="Debug Paint" width="300"/>
 </p>
 
 IntelliJ IDEA allows developers to make sure that the application works well on different platforms. To check the functionality and look-and-feel click the Platform Mode button. Now you can compare the properties and find the source of possible issues.
 
 ## Performance Overlay
 
-The performance overlay displays the GPU & CPU threads performance graphs and allows you to analyze the current situation and improve the performance. Basically, if you are not astisfied with how smooth your application works, this tool should help. IntelliJ IDEA offers a simple implementation: click <img src="https://github.com/straw-wave/draft/blob/master/img_final/5_performance_overlay.png" alt="Debug Paint" width="18"/> button in the Flutter Inspector tool window.
+The performance overlay displays the GPU & CPU threads performance graphs and allows you to analyze the current situation and improve the performance. Basically, if you are not astisfied with how smooth your application works, this tool should help. IntelliJ IDEA offers a simple implementation: click <img src="https://github.com/straw-wave/draft/blob/master/img_final/5_performance_overlay.png" alt="Performance Overlay" width="18"/> button in the Flutter Inspector tool window. Now you can test your application and check the performance statistics on the screen.
+<p align="center">
+<img src="https://github.com/straw-wave/draft/blob/master/img_final/5_performance_mode.png" width="300"/>
+</p>
+
+## Observatory and Timeline
+
+Observatory is a debugging and profiling tool that provides profiling, examining the heap, and displaying code coverage. To open **Observatory**, you must run your application and click <img src="https://github.com/straw-wave/draft/blob/master/img_final/5_observatory_button.png" alt="Observatory" width="18"/> button (it is available in the **Run** or **Flutter Inspector** tool windows). 
+  * Use **Observatory** to look inside a running Dart virtual machine and to get the current statistics about memory leaks, check which lines of code have been executed, and so on. 
+  * **Timeline** is a tool that allows you to capture the stack snapshot.
+<p align="center">
+<img src="https://github.com/straw-wave/draft/blob/master/img_final/5_observatory.png" width=""/>
+</p>
+
+## Dart Analysis Tool Window
+
+This tool window allows to monitor issues that might arise during the project development. The performance of this feature is based on the [Dart Analysis server](https://github.com/straw-wave/draft/blob/master/content/tool-windows.md#dart-analysis-tool-window), a local server that provides the essential data and functionality for the IDE: code completion, structure view, warnings, syntax highlighting and so on.
+
+In the the **Dart Analysis** tool window you can:
+  * Sort the errors by severity or location.
+  * Group errors by severity.
+<img src="https://github.com/straw-wave/draft/blob/master/img_final/5_dart_analysis_1.gif" alt="" width="590"/>  
+ 
+ * Use the **Dart Problems Filter** to filter out some error messages if necessary.
+ <img src="https://github.com/straw-wave/draft/blob/master/img_final/5_dart_analysis_2.gif" alt="" width="590"/>
+ 
+  * Determine the precise location of an issue and move to it.
+  * Identify the type of an issue (there can be errors, warnings, or hints).
+  * Enable the **Autoscroll to Source** feature that allows to get to the issue in a quick way.
+  * Restart the Dart Analysis Server.
+
