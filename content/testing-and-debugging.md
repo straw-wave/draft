@@ -62,7 +62,14 @@ Observatory is a debugging and profiling tool that provides profiling, examining
 To see the rest of features provided by Flutter Inspector, click the gear-wheel icon in the upper-right corner of the tool window.
 
 ### Baseline Painting
-Click This command toggles the painting of baselines in your Flutter application.
+Enable this feature to see the baselines paintings in your Flutter application: each RenderBox will paint a line at its baseline.
+<p align="center">
+<img src="https://github.com/straw-wave/draft/blob/master/img_final/5_baseline.png" width=""/>
+</p>
+
+
+
+
 
 - **Toggle Select Widget Mode**: Select any widget in your project to inspect it. 
 - **Refresh Widget Info**: A quick information updating.
