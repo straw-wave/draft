@@ -19,15 +19,15 @@ So, you have your application running and you want to inspect it, check the layo
 click **Flutter Inspector** on the right side of the main IDE window (alternatively, you can choose **View | Tool Windows | Flutter 
 Inspector**). Use the toolbar to interact with elements of an app and to switch between Inspector tabs:
 <p align="center">
-<img src="https://github.com/straw-wave/draft/blob/master/img_final/5_inspector_toolbar.png" alt="Inspector Toolbar"/>
+<img src="https://github.com/straw-wave/draft/blob/master/img_final/5_inspector_toolbar_2.png" alt="Inspector Toolbar"/>
 </p>
 
 The following features are at your disposal: 
 
-- "Toggle Select Widget Mode": Select any widget in your project to highlight it simultaneously on the screen of a device and in the widgets tree and inspect it. 
-- "Refresh Widget Info": Provides a quick information updating.
-- "Toggle Debug Paint": This mode adds visual debugging hints for rendering displaying UI elements of your application. 
-- "Toggle Platform Mode": Switch between rendering modes for Android and iOS platforms.
+- **Toggle Select Widget Mode**: Select any widget in your project to inspect it. 
+- **Refresh Widget Info**: A quick information updating.
+- **Toggle Debug Paint**: This mode adds debug painting in your application to help you understand how widgets are laid out on the screen.
+- **Toggle Platform Mode**: Switch between Android and iOS platform rendering to test platform-specific rendering without having to use two devices.
 - "Toggle Performance Overlay": This tool displays the GPU & CPU threads performance graphs and allows you to analyze the current situation and improve the performance.
 - "Open Timeline View": Analyze the activity statistics of the application on-the-fly.
 - "Open Observatory": Open Observatory, a debugging and profiling tool shipped with the Dart SDK. 
