@@ -44,8 +44,25 @@ Use the **Debug Paint** mode to understand how your widgets are laid out on the 
 ### Platform Mode
 Click <img src="https://github.com/straw-wave/draft/blob/master/img_final/5_platform_mode.png" alt="Platform Mode" width="18"/> button to activate this mode and switch between Android and iOS platform rendering to test platform-specific rendering without having to use two devices.
 
+### Performance Overlay
+The performance overlay displays the GPU & CPU threads performance graphs and allows you to analyze the current situation and improve the performance. Basically, if you are not astisfied with how smooth your application works, this tool should help. Click <img src="https://github.com/straw-wave/draft/blob/master/img_final/5_performance_overlay.png" alt="Performance Overlay" width="18"/> button to enable this feature. Now you can test your application and check the performance statistics on the screen.
+<p align="center">
+<img src="https://github.com/straw-wave/draft/blob/master/img_final/5_performance_mode.png" width="300"/>
+</p>
 
-https://github.com/straw-wave/draft/blob/master/img_final/5_platform_mode.png
+## Timeline 
+Timeline is a tool that allows you to capture the stack snapshot. This feature works in tandem with Observatory.
+
+## Observatory
+Observatory is a debugging and profiling tool that provides profiling, examining the heap, and displaying code coverage. To open **Observatory**, you must run your application and click <img src="https://github.com/straw-wave/draft/blob/master/img_final/5_observatory_button.png" alt="Observatory" width="18"/> button (it is available in the **Run** or **Flutter Inspector** tool windows). Use **Observatory** to look inside a running Dart virtual machine and to get the current statistics about memory leaks, check which lines of code have been executed, and so on. 
+<p align="center">
+<img src="https://github.com/straw-wave/draft/blob/master/img_final/5_observatory.png" width=""/>
+</p>
+
+To see the rest of features provided by Flutter Inspector, click the gear-wheel icon in the upper-right corner of the tool window.
+
+### Baseline Painting
+Click This command toggles the painting of baselines in your Flutter application.
 
 - **Toggle Select Widget Mode**: Select any widget in your project to inspect it. 
 - **Refresh Widget Info**: A quick information updating.
@@ -74,12 +91,7 @@ You have checked the widget's position and its properties, and in case if there 
 
 IntelliJ IDEA allows developers to make sure that the application works well on different platforms. To check the functionality and look-and-feel click the Platform Mode button. Now you can compare the properties and find the source of possible issues.
 
-## Performance Overlay
 
-The performance overlay displays the GPU & CPU threads performance graphs and allows you to analyze the current situation and improve the performance. Basically, if you are not astisfied with how smooth your application works, this tool should help. IntelliJ IDEA offers a simple implementation: click <img src="https://github.com/straw-wave/draft/blob/master/img_final/5_performance_overlay.png" alt="Performance Overlay" width="18"/> button in the Flutter Inspector tool window. Now you can test your application and check the performance statistics on the screen.
-<p align="center">
-<img src="https://github.com/straw-wave/draft/blob/master/img_final/5_performance_mode.png" width="300"/>
-</p>
 
 ## Observatory and Timeline
 
