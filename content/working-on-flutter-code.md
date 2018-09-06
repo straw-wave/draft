@@ -86,9 +86,6 @@ Process finished with exit code 0
 ## Importing libraries
 When you create a new widget you can import the required Dart library in an easy way: just press ``Alt+Enter`` (Win, Linux) or ``⌘↩`` (Mac OS) and select the library you need. IntelliJ IDEA will perform the import for you.
 
-## Dart Analysis tool window
-Any issues that might arise during your Flutter project development are displayed in the Dart Analysis tool window. You can sort the errors by severity or location and use the Dart Problems Filter that allows to fliter out some error messages if necessary.
-
 ---
 
 **Next:** When the plugins are installed and the environment is configured, you can [create a new project](https://github.com/straw-wave/draft/blob/master/content/creating-projects.md) to start the development process.
