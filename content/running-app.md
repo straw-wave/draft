@@ -35,4 +35,4 @@ debugging and profiling tool shipped with the Dart SDK) for profiling your appli
 
 ---
 
-**Next:** Flutter and Dart plugins offer a number of debugging tools that will help you improve your application.  
+**Next:** Flutter and Dart plugins offer a number of testing and debugging tools that will help you improve your application.  
