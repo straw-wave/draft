@@ -23,16 +23,21 @@ Once you have installed the plugins, you must specify proper SDK paths.
 1. Press ``Ctrl+Alt+S`` (Win, Linux) or ``⌘,`` (Mac OS) to open the **Settings** dialog and go to **Languages & Frameworks | 
 Flutter**.
 2. Specify the Flutter SDK path in the field at the top of the window. Once it is done, the current version is displayed.
-![Flutter SDK Path](https://github.com/straw-wave/draft/blob/master/img/flutter_sdk_path_1.png)
+<p align="center">
+<img src="https://github.com/straw-wave/draft/blob/master/img/flutter_sdk_path_1.png" alt="Inspector Toolbar" width="700"/>
+</p>
+
 3. Click **OK**.
 
 ### To configure the Dart plugin:
 1. Press ``Ctrl+Alt+S`` (Win, Linux) or ``⌘,`` (Mac OS) to open the **Settings** dialog and go to **Languages & Frameworks | Dart**.
 2. Specify the Dart SDK path in the field at the top of the window. Note that this path is actually inside of your Flutter SDK 
-directory. 
-For instance, if the Flutter SDK location is ``\src\flutter-sdk\flutter``, the Dart SDK location will be 
+directory. For instance, if the Flutter SDK location is ``\src\flutter-sdk\flutter``, the Dart SDK location will be 
 ``\src\flutter-sdk\flutter\bin\cache\dart-sdk``. Once the path is specified, the current version is displayed.
-![Dart SDK Path](https://github.com/straw-wave/draft/blob/master/img/dart_sdk_path_1.png)
+<p align="center">
+<img src="https://github.com/straw-wave/draft/blob/master/img/dart_sdk_path_1.png" alt="Inspector Toolbar" width="700"/>
+</p>
+
 3. Click **OK**.
 
 ## Additional plugins configuration
