@@ -100,12 +100,12 @@ This tool window allows to monitor issues that might arise during the project de
 In the the **Dart Analysis** tool window you can:
   * Sort the errors by severity or location.
   * Group errors by severity.
-<img src="https://github.com/straw-wave/draft/blob/master/img_final/5_dart_analysis_1.gif" alt="" width="590"/>  
+<p align="center"><img src="https://github.com/straw-wave/draft/blob/master/img_final/5_dart_analysis_1.gif" alt="" width="590"/></p>
  
  * Use the **Dart Problems Filter** to filter out some error messages if necessary.
- <img src="https://github.com/straw-wave/draft/blob/master/img_final/5_dart_analysis_2.gif" alt="" width="590"/>
+ <p align="center"><img src="https://github.com/straw-wave/draft/blob/master/img_final/5_dart_analysis_2.gif" alt="" width="590"/></p>
  
-  * Determine the precise location of an issue and move to it.
+  * Determine the precise location of an issue and navigate to it.
   * Identify the type of an issue (there can be errors, warnings, or hints).
   * Enable the **Autoscroll to Source** feature that allows to get to the issue in a quick way.
   * Restart the Dart Analysis Server.
