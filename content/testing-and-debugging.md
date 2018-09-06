@@ -51,7 +51,7 @@ The performance overlay displays the GPU & CPU threads performance graphs and al
 </p>
 
 ## Timeline 
-Timeline is a tool that allows you to capture the stack snapshot. This feature works in tandem with Observatory.
+Timeline is a tool that is useful for debugging performance issues: it allows you to capture the stack snapshot. This feature works in tandem with Observatory.
 
 ## Observatory
 Observatory is a debugging and profiling tool that provides profiling, examining the heap, and displaying code coverage. To open **Observatory**, you must run your application and click <img src="https://github.com/straw-wave/draft/blob/master/img_final/5_observatory_button.png" alt="Observatory" width="18"/> button (it is available in the **Run** or **Flutter Inspector** tool windows). Use **Observatory** to look inside a running Dart virtual machine and to get the current statistics about memory leaks, check which lines of code have been executed, and so on. 
@@ -64,50 +64,34 @@ To see the rest of features provided by Flutter Inspector, click the gear-wheel 
 ### Baseline Painting
 Enable this feature to see the baselines paintings in your Flutter application: each RenderBox will paint a line at its baseline.
 <p align="center">
-<img src="https://github.com/straw-wave/draft/blob/master/img_final/5_baseline.png" width=""/>
+<img src="https://github.com/straw-wave/draft/blob/master/img_final/5_baseline.png" width="500"/>
 </p>
 
+### Repaint Rainbow
+This feature enables showing the rotating colors on layers when repainting. It helps to understand which areas of the screen are being repainted, and which are not. 
 
+### Enable Slow Animations
+Slow your animations down and perform a visual inspection in case if something is not animating properly.
 
+### Hide Debug Banner
+If you want to take a screenshot of your new application, hide the "Debug" banner that is displayed in the upper-right corner by default. This feature allows to do it without rebuilding the application.
 
+### Auto Horizontal Scroll
+Enabling this feature might be useful if your widget structure is deep. When you scroll down, the IDE will pefrorm the horizontal scroll for you automatically.
 
-- **Toggle Select Widget Mode**: Select any widget in your project to inspect it. 
-- **Refresh Widget Info**: A quick information updating.
-- **Toggle Debug Paint**: This mode adds debug painting in your application to help you understand how widgets are laid out on the screen.
-- **Toggle Platform Mode**: Switch between Android and iOS platform rendering to test platform-specific rendering without having to use two devices.
-- "Toggle Performance Overlay": This tool displays the GPU & CPU threads performance graphs and allows you to analyze the current situation and improve the performance.
-- "Open Timeline View": Analyze the activity statistics of the application on-the-fly.
-- "Open Observatory": Open Observatory, a debugging and profiling tool shipped with the Dart SDK. 
-- "Show Paint Baselines": Enable this feature the see a line each RenderBox will paint at its baseline.
-- "Enable Repaint Rainbow": This option will show rotating colors on layers when repainting.
-- "Enable Slow Animations": Slow your animations down, so you can perform visual inspection.
-- "Hide Debug Banner": It is possible to hide the "Debug" banner that is displayed in the upper-right corner of your application by default when it is run in a debug mode.
-- "Auto horizontal scroll": Enabling this feature might be useful if your widget structure is deep. When you scroll down, the IDE will pefrorm the horizontal scroll for you automatically.
-- "Highlight nodes displayed in both trees".
+### Highlight nodes displayed in both trees
+When this feature is enabled, the nodes that are displayed in two panes of Flutter Inspector will be highlighted. 
+<p align="center">
+<img src="https://github.com/straw-wave/draft/blob/master/img_final/5_highlight_nodes.png" width="500"/>
+</p>
 
-
-
-You have checked the widget's position and its properties, and in case if there is a problem with rendering of a UI element, you can switch to the **Render Tree** tab. Note that the **Widgets** and **Render Tree** tabs are connected, which means that if you have selected a widget and switch between tabs, you will get the data about the same widget. 
+## Render Tree Tab
+In case if there is a problem with rendering of a UI element, you can switch to the **Render Tree** tab. Note that the **Widgets** and **Render Tree** tabs are connected, which means that if you have selected a widget and switch between tabs, you will get the data about the same widget. 
 >**Tip:** If you have animations in your application, the Render Tree will display the values being changed on-the-fly. 
 
 |         |            |
 | ------------- |:-------------:|
 |<img src="https://github.com/straw-wave/draft/blob/master/img_final/5_widgets-render_tree_1.png" alt="Allowed values" width="590"/>|<img src="https://github.com/straw-wave/draft/blob/master/img_final/5_widgets-render_tree_2.png" alt="Allowed values" width="590"/>| 
-
-
-
-IntelliJ IDEA allows developers to make sure that the application works well on different platforms. To check the functionality and look-and-feel click the Platform Mode button. Now you can compare the properties and find the source of possible issues.
-
-
-
-## Observatory and Timeline
-
-Observatory is a debugging and profiling tool that provides profiling, examining the heap, and displaying code coverage. To open **Observatory**, you must run your application and click <img src="https://github.com/straw-wave/draft/blob/master/img_final/5_observatory_button.png" alt="Observatory" width="18"/> button (it is available in the **Run** or **Flutter Inspector** tool windows). 
-  * Use **Observatory** to look inside a running Dart virtual machine and to get the current statistics about memory leaks, check which lines of code have been executed, and so on. 
-  * **Timeline** is a tool that allows you to capture the stack snapshot.
-<p align="center">
-<img src="https://github.com/straw-wave/draft/blob/master/img_final/5_observatory.png" width=""/>
-</p>
 
 ## Dart Analysis Tool Window
 
