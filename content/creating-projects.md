@@ -21,6 +21,10 @@ For instance, you can modify a module name, set up the module content root and m
 project format.
 11. Click **Finish**.
 
+|         |            |
+| ------------- |:-------------:|
+|<img src="https://github.com/straw-wave/draft/blob/master/img_final/4_new_project.png" alt="Allowed values" width="590"/>|<img src="https://github.com/straw-wave/draft/blob/master/img_final/4_new_project_2.png" alt="Allowed values" width="590"/>| 
+
 ## Creating a project containing existing source code files
 
 1. Click **Create New Project** from the **Welcome** window or choose **File | New | Project** on the main menu. 
@@ -32,5 +36,5 @@ does not support the Flutter framework.
 
 ---
 
-**Next**: The development process begins. When your new application is ready for initial testing, run it to adjust its functions 
+**Next**: The development process begins. When your new application is ready for initial testing, [run it](https://github.com/straw-wave/draft/blob/master/content/running-app.md) to adjust its functions 
 on-the-fly.
