@@ -8,7 +8,7 @@ Your new project will open the Flutter plugin starter application template first
 
 1. Click **Create New Project** from the **Welcome** window or choose **File | New | Project** on the main menu.
 2. Select **Flutter** in the menu, make sure that the Flutter SDK path is specified correctly, and click **Next**. 
-You will be prompted to fill in a number of fields in the New Project window.
+You will be prompted to fill in a number of fields in the **New Project** window.
 3. Type the project name. Note that a module name must be valid: lower case and underscores are acceptable.
 4. Specify the directory where your project must be saved.
 5. Add a project description (*optional*).
@@ -24,11 +24,11 @@ project format.
 ## Creating a project containing existing source code files
 
 1. Click **Create New Project** from the **Welcome** window or choose **File | New | Project** on the main menu. 
-> NOTE: Do not use the **File | New | Project from existing sources** for your Flutter projects. Currently the Import Project feature
+> **NOTE:** Do not use the **File | New | Project from existing sources** for your Flutter projects. Currently the Import Project feature
 does not support the Flutter framework.
 2. Select **Flutter** in the menu, make sure that the Flutter SDK path is specified correctly, and click **Next**.
 3. Specify the location of the directory that contains the required Flutter source code files.
-4. Click Finish. 
+4. Click **Finish**. 
 
 ---
 
