@@ -12,8 +12,10 @@ The Flutter Outline tool window helps to work with Flutter widgets and shows you
 association between parent and child widgets. However, you can not only check the structure, but modify it as well. To open the 
 tool, click Flutter Outline on the right side of the main IDE window. Alternatively, you can choose View | Tool Windows | Flutter Outline 
 on the main menu.
+<p align="center">
+<img src="https://github.com/straw-wave/draft/blob/master/img_final/2_outline_tool_window.png" alt="Outline Tool Window"/>
+</p>
 
-![Flutter Outline Tool Window](https://github.com/straw-wave/draft/blob/master/img/2_outline_tool_window.png)
 
 ## Flutter Inspector Tool Window 
 
@@ -24,16 +26,18 @@ the corresponding visualization of the widget tree and the Render Tree. Such app
 itself, so you can actually see where in the code (whether it is your code or the the framework code) a widget is being created or 
 configured. This way, even the huge widgets tree can be handled in an elegant way: selecting a widget of your interest helps both to 
 navigate at ease and to save time.
-
-![Flutter Inspector Tool Window](https://github.com/straw-wave/draft/blob/master/img/2_inspector_tool_window.png)
+<p align="center">
+<img src="https://github.com/straw-wave/draft/blob/master/img_final/2_inspector_tool_window.png" alt="Inspector Tool Window"/>
+</p>
 
 ## Dart Analysis Tool Window
 
 This tool window allows to monitor issues that might arise during the project development. The performance of this feature is based on 
 the Dart Analysis server, a local server (shipped as a part of the Dart SDK) that provides the essential data and functionality for the
 IDE: code completion, structure view, warnings, syntax highlighting and so on.
-
-![Dart Analysis Tool Window](https://github.com/straw-wave/draft/blob/master/img/dart_analysis_tool_window.png)
+<p align="center">
+<img src="https://github.com/straw-wave/draft/blob/master/img_final/2_dart_analysis_tool_window.png" alt="Dart Analysis Tool Window"/>
+</p>
 
 ## Run Tool Window
 
@@ -42,8 +46,9 @@ IntelliJ IDEA. However, the Flutter plugin delivers some changes: you can find t
 buttons that have been added to this window. Also such Dart-specific tools as **Observatory** (it displays code coverage, examines the 
 heap, and provides profiling) and **Timeline** (it allows you to capture the stack snapshot) are within reach. You can open the Flutter 
 Inspector tool from the Run tool window as well.
-
-![Run Tool Window](https://github.com/straw-wave/draft/blob/master/img/run_tool_window.png)
+<p align="center">
+<img src="https://github.com/straw-wave/draft/blob/master/img_final/2_run_tool_window.png" alt="Run Tool Window"/>
+</p>
 
 ---
 
