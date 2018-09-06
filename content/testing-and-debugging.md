@@ -22,6 +22,22 @@ Inspector**). Use the toolbar to interact with elements of an app and to switch 
 <img src="https://github.com/straw-wave/draft/blob/master/img_final/5_inspector_toolbar.png" alt="Inspector Toolbar"/>
 </p>
 
+The following features are at your disposal: 
+
+- "Toggle Select Widget Mode": Select any widget in your project to highlight it simultaneously on the screen of a device and in the widgets tree and inspect it. 
+- "Refresh Widget Info": Provides a quick information updating.
+- "Toggle Debug Paint": This mode adds visual debugging hints for rendering displaying UI elements of your application. 
+- "Toggle Platform Mode": Switch between rendering modes for Android and iOS platforms.
+- "Toggle Performance Overlay": This tool displays the GPU & CPU threads performance graphs and allows you to analyze the current situation and improve the performance.
+- "Open Timeline View": Analyze the activity statistics of the application on-the-fly.
+- "Open Observatory": Open Observatory, a debugging and profiling tool shipped with the Dart SDK. 
+- "Show Paint Baselines": Enable this feature the see a line each RenderBox will paint at its baseline.
+- "Enable Repaint Rainbow": This option will show rotating colors on layers when repainting.
+- "Enable Slow Animations": Slow your animations down, so you can perform visual inspection.
+- "Hide Debug Banner": It is possible to hide the "Debug" banner that is displayed in the upper-right corner of your application by default when it is run in a debug mode.
+- "Auto horizontal scroll": Enabling this feature might be useful if your widget structure is deep. When you scroll down, the IDE will pefrorm the horizontal scroll for you automatically.
+- "Highlight nodes displayed in both trees".
+
 You can start with the **Select Widget Mode**. Click <img src="https://github.com/straw-wave/draft/blob/master/img_final/5_select_widget_mode.png" alt="Select Widget Mode" width="18"/> button to activate this mode. Now you can select a widget that you are interested in, so when you interact with your device, you are not interacting with the application directly, but you can see which widget is responsible for a specific position on the screen. Now you can see the tree of widgets, the widget's position, and its properties. 
 >**Tip:** hover over a property value to see the list of allowed values. When you perform a hot reload, the Inspector will update the widget properties accordingly.
 
