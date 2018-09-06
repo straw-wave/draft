@@ -20,3 +20,10 @@ click **Flutter Inspector** on the right side of the main IDE window (alternativ
 Inspector**). Use the toolbar to interact with elements of an app and to switch between Inspector tabs:
 
 ![Inspector Toolbar](https://github.com/straw-wave/draft/blob/master/img/5_inspector_toolbar.png)
+
+You can start with the "Select Widget Mode". Click the button to activate this mode. Now you can select a widget that you are interested in, so when you interact with your device, you are not interacting with the application directly, but you can see which widget is responsible for a specific position on the screen. Now you can see the tree of widgets, the widget's position, and its properties. 
+Tip: hover over a property value to see the list of allowed values.
+
+|         |            |
+| ------------- |:-------------:|
+| ![Allowed values](https://github.com/straw-wave/draft/blob/master/img_final/5_allowed_values.png)|<img src="https://github.com/straw-wave/draft/blob/master/img_final/5_allowed_values_2.png" alt="Allowed values" width="600"/>| 
