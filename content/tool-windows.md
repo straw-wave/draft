@@ -47,7 +47,7 @@ buttons that have been added to this window. Also such Dart-specific tools as **
 heap, and provides profiling) and **Timeline** (it allows you to capture the stack snapshot) are within reach. You can open the Flutter 
 Inspector tool from the Run tool window as well.
 <p align="center">
-<img src="https://github.com/straw-wave/draft/blob/master/img_final/2_run_tool_window.png" alt="Run Tool Window"/>
+<img src="https://github.com/straw-wave/draft/blob/master/img_final/2_run_tool_window_2.png" alt="Run Tool Window"/>
 </p>
 
 ---
