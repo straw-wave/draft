@@ -22,7 +22,7 @@ Inspector**). Use the toolbar to interact with elements of an app and to switch 
 <img src="https://github.com/straw-wave/draft/blob/master/img_final/5_inspector_toolbar.png" alt="Inspector Toolbar"/>
 </p>
 
-You can start with the "Select Widget Mode". Click <img src="https://github.com/straw-wave/draft/blob/master/img_final/5_select_widget_mode.png" alt="Select Widget Mode" width="20"/> button to activate this mode. Now you can select a widget that you are interested in, so when you interact with your device, you are not interacting with the application directly, but you can see which widget is responsible for a specific position on the screen. Now you can see the tree of widgets, the widget's position, and its properties. 
+You can start with the **Select Widget Mode**. Click <img src="https://github.com/straw-wave/draft/blob/master/img_final/5_select_widget_mode.png" alt="Select Widget Mode" width="20"/> button to activate this mode. Now you can select a widget that you are interested in, so when you interact with your device, you are not interacting with the application directly, but you can see which widget is responsible for a specific position on the screen. Now you can see the tree of widgets, the widget's position, and its properties. 
 >Tip: hover over a property value to see the list of allowed values. When you perform a hot reload, the Inspector will update the widget properties accordingly.
 
 |         |            |
@@ -34,3 +34,10 @@ You have checked the widget's position and its properties, and in case if there 
 |         |            |
 | ------------- |:-------------:|
 |<img src="https://github.com/straw-wave/draft/blob/master/img_final/5_widgets-render_tree_1.png" alt="Allowed values" width="590"/>|<img src="https://github.com/straw-wave/draft/blob/master/img_final/5_widgets-render_tree_2.png" alt="Allowed values" width="590"/>| 
+
+Use the **Debug Paint** mode to understand how your widgets are laid out on the screen. Click <img src="https://github.com/straw-wave/draft/blob/master/img_final/5_debug_paint.png" alt="Debug Paint" width="20"/> button to activate this mode.
+<p align="center">
+<img src="https://github.com/straw-wave/draft/blob/master/img_final/5_debug_paint_mode.png" alt="Debug Paint" width="400"/>
+</p>
+
+If you have animations in your application, the Render Tree will display the values being changed on-the-fly. IntelliJ IDEA allows developers to make sure that the application works well on different platforms. To check the functionality and look-and-feel click the Platform Mode button. Now you can compare the properties and find the source of possible issues. 
