@@ -24,7 +24,13 @@ The core building blocks in Flutter applications are widgets (everything-is-a-wi
 ## Widget Management
 In addition, IntelliJ IDEA offers alternative widgets management opportunities: you can add padding, remove a widget, swap it with its parent, wrap it with a new widget, and so on by using the ``Alt+Enter`` (Win, Linux) or ``⌘↩`` (Mac OS) shortcut in the Editor. This method also allows to save your time and it makes sure that the structure of your project remains valid.
 <p align="center">
-<img src="https://github.com/straw-wave/draft/blob/master/img_final/4_center_widget_2.png" alt="Intention Actions" width="400"/>
+<img src="https://github.com/straw-wave/draft/blob/master/img_final/4_center_widget_2.png" alt="Center Widget" width="400"/>
+</p>
+
+## Converting
+In case if you need to convert ``child`` to ``children``, there is a quick way to do it. Use the ``Alt+Enter`` (Win, Linux) or ``⌘↩`` (Mac OS) shortcuts to open the menu and choose the **Convert to children** option.
+<p align="center">
+<img src="https://github.com/straw-wave/draft/blob/master/img_final/4_convert.png" alt="Convert" width="400"/>
 </p>
 
 ## Live Templates 
