@@ -10,8 +10,7 @@ performed automatically, displaying the messages for you in a special tool windo
 
 The Flutter Outline tool window helps to work with Flutter widgets and shows your project's widget hierarchy, so you can see the actual 
 association between parent and child widgets. However, you can not only check the structure, but modify it as well. To open the 
-tool, click Flutter Outline on the right side of the main IDE window. Alternatively, you can choose View | Tool Windows | Flutter Outline 
-on the main menu.
+tool, click Flutter Outline on the right side of the main IDE window. Alternatively, you can choose **View | Tool Windows | Flutter Outline** on the main menu.
 <p align="center">
 <img src="https://github.com/straw-wave/draft/blob/master/img_final/2_outline_tool_window.png" alt="Outline Tool Window"/>
 </p>
