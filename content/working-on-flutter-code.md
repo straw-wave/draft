@@ -8,15 +8,12 @@ working on Dart and Flutter code.
 The core building blocks in Flutter applications are widgets (everything-is-a-widget concept), so developers will work with these blocks 
 a lot. That is why it is important to deliver a powerful tool that could help manage widgets quickly and efficiently and ensure that the 
 structure remains correct. **Flutter Outline** is the right tool for these purposes. To open it, click **Flutter Outline** on the right 
-side of the main IDE window (alternatively, you can click **View > Tool Windows > Flutter Outline**). To manage your widgets structure, 
-use the toolbar:
+side of the main IDE window (alternatively, you can choose **View | Tool Windows | Flutter Outline** on the main menu). To manage your widgets structure, use the toolbar:
 <p align="center">
 <img src="https://github.com/straw-wave/draft/blob/master/img_final/4_flutter_outline_toolbar.png" alt="Flutter Outline Toolbar" width="590"/>
 </p>
 
-**Flutter Outline** allows you to both view the structure of your application and to modify it, if necessary. When you use this tool, the 
-IDE will make sure that the structure is correct, so you can avoid typos or forgotten symbols. For instance, you can center a widget in 
-a few steps using the Outline tool: 
+**Flutter Outline** allows you to both view the structure of your application and to modify it, if necessary. When you use this tool, the IDE will make sure that the structure is correct, so you can avoid typos or forgotten symbols. For instance, you can center a widget using the Outline tool: 
 
 1. Select a widget.
 2. Click the **Center widget** button on the toolbar.
@@ -25,6 +22,10 @@ a few steps using the Outline tool:
 <img src="https://github.com/straw-wave/draft/blob/master/img_final/4_center_widget.gif" alt="" width=""/>|<img src="https://github.com/straw-wave/draft/blob/master/img_final/4_center_widget_demo.gif" alt="" width="340"/>|
 --- | --- |
 
+Alternatively, you can use the ``Alt+Enter`` (Win, Linux) or  ``⌘↩`` (Mac OS) shortcuts to open the intention actions dialog and select the required action.
+<p align="center">
+<img src="https://github.com/straw-wave/draft/blob/master/img_final/4_center_widget_2.png" alt="Intention Actions" width="400"/>
+</p>
 
 This way, you can center you widgets, add padding, wrap widgets with columns and rows, extract methods, move widgets up and down, and 
 remove them with the help of Flutter Outline. Additionally, you can enable the filtering to show only widgets.  
