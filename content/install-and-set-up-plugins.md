@@ -19,7 +19,7 @@ To install the plugins:
 
 Once you have installed the plugins, you must specify proper SDK paths.
 
-### To configure the Flutter plugin:
+### Flutter plugin configuration
 1. Press ``Ctrl+Alt+S`` (Win, Linux) or ``⌘,`` (Mac OS) to open the **Settings** dialog and go to **Languages & Frameworks | 
 Flutter**.
 2. Specify the Flutter SDK path in the field at the top of the window. Once it is done, the current version is displayed.
@@ -29,7 +29,7 @@ Flutter**.
 
 3. Click **OK**.
 
-### To configure the Dart plugin:
+### Dart plugin configuration:
 1. Press ``Ctrl+Alt+S`` (Win, Linux) or ``⌘,`` (Mac OS) to open the **Settings** dialog and go to **Languages & Frameworks | Dart**.
 2. Specify the Dart SDK path in the field at the top of the window. Note that this path is actually inside of your Flutter SDK 
 directory. For instance, if the Flutter SDK location is ``\src\flutter-sdk\flutter``, the Dart SDK location will be 
@@ -44,8 +44,11 @@ directory. For instance, if the Flutter SDK location is ``\src\flutter-sdk\flutt
 
 Now you are all set to start working on your Flutter projects in IntelliJ IDEA. However, it might be a sound practice to configure your 
 environment thoroughly. To study possible settings you can use the ``Ctrl+Alt+S`` (Win, Linux) or ``⌘,`` (Mac OS) shortcuts to open the 
-**Settings** dialog and type Flutter or Dart in the search field. Your IDE will display the plugins-specific settings, from color 
-schemes to live templates. Here are some things to pay attention to.
+**Settings** dialog and type *Flutter* or *Dart* in the search field. Your IDE will display the plugins-specific settings, from color 
+schemes to live templates.
+<p align="center">
+<img src="https://github.com/straw-wave/draft/blob/master/img_final/1_settings.png" alt="Settings" width="700"/>
+</p>
 
 ### Flutter-specific settings
 IntelliJ IDEA allows you to configure a number of Flutter-specific settings that help to customize your working environment. For 
