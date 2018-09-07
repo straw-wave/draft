@@ -31,4 +31,4 @@ This tool window should be well-known developers who work in IntelliJ IDEA: it d
 
 ---
 
-**Next:** When the plugins are installed and the environment is configured, you can [create a new project](https://github.com/straw-wave/draft/blob/master/content/creating-projects.md) to start the development process.
+**Next:** To start the development process you must [create a new project](https://github.com/straw-wave/draft/blob/master/content/creating-projects.md).
