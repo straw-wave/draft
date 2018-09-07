@@ -36,4 +36,4 @@ does not support the Flutter framework.
 
 ---
 
-
+**Next:** Take a look at the [features](https://github.com/straw-wave/draft/blob/master/content/working-on-flutter-code.md) that IntelliJ IDEA provides Flutter developers with and figure out the ways you can speed up the applications building.
