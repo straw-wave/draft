@@ -64,6 +64,7 @@ Observatory is a debugging and profiling tool that provides profiling, examining
 <img src="https://github.com/straw-wave/draft/blob/master/img_final/5_observatory.png" width=""/>
 </p>
 
+---
 To see the rest of features provided by Flutter Inspector, click the gear-wheel icon in the upper-right corner of the tool window.
 
 ### Baseline Painting
