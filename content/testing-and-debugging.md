@@ -113,3 +113,5 @@ In the the **Dart Analysis** tool window you can:
   * Enable the **Autoscroll to Source** feature that allows to get to the issue in a quick way.
   * Restart the Dart Analysis Server.
 
+## Quick-fixes
+If **Dart Analysis** tool window showed you a number of errors, you can use the ``Alt+Enter`` (Win, Linux) or ``⌘↩`` (Mac OS) shortcut to see the suggested quick-fixes. 
