@@ -19,7 +19,14 @@ The core building blocks in Flutter applications are widgets (everything-is-a-wi
 <img src="https://github.com/straw-wave/draft/blob/master/img_final/4_center_widget.gif" alt="" width=""/>|<img src="https://github.com/straw-wave/draft/blob/master/img_final/4_center_widget_demo.gif" alt="" width="340"/>|
 --- | --- |
 
->**Note:** Click the <img src="https://github.com/straw-wave/draft/blob/master/img_final/4_filter.png" alt="" width="18"/> icon in the upper-right corner of the **Flutter Outline** tool window to enable the filtering to show only widgets.  
+>**Note:** Click the <img src="https://github.com/straw-wave/draft/blob/master/img_final/4_filter.png" alt="" width="18"/> icon in the upper-right corner of the **Flutter Outline** tool window to enable the filtering to show only widgets.
+
+## Structure view
+Another way to look at the structure of your project is to use the **Structure View**. This view is based on the **Dart Analysis Server**.
+<p align="center">
+<img src="https://github.com/straw-wave/draft/blob/master/img_final/4_structure_view.png" alt="Convert" width="900"/>
+</p>
+
 
 ## Widget Management
 In addition, IntelliJ IDEA offers alternative widgets management opportunities: you can add padding, remove a widget, swap it with its parent, wrap it with a new widget, and so on by using the ``Alt+Enter`` (Win, Linux) or ``⌘↩`` (Mac OS) shortcut in the Editor. This method also allows to save your time and it makes sure that the structure of your project remains valid.
