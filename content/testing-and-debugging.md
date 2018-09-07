@@ -5,6 +5,12 @@ specifically for Dart and Flutter. Some of them run in background, like the Dart
 ``flutter analyze`` command. Thus, your code is being analyzed and the IDE points out possible mistakes and issues for you. Other new 
 tools, for instance, include **Flutter Inspector** and **Observatory**. You can use them to test, analyze, and debug your application.
 
+## Debug Mode
+To run your application in the Debug Mode, click the <img src="https://github.com/straw-wave/draft/blob/master/img_final/6_debug_icon.png" alt="Debug" width="18"/> icon in the upper-right corner of the main IDE window. This mode includes all debugging information, enables Observatory and service extensions. 
+<p align="center">
+<img src="https://github.com/straw-wave/draft/blob/master/img_final/6_debug_mode.png" alt="Debug Mode"/>
+</p>
+
 ## Flutter Inspector
 
 Widgets are used as the core building blocks in Flutter (everything-is-a-widget concept), so it was important to provide developers with 
