@@ -14,7 +14,7 @@ To run your application in the Debug Mode, click the <img src="https://github.co
 ## Flutter Inspector
 
 Widgets are used as the core building blocks in Flutter (everything-is-a-widget concept), so it was important to provide developers with 
-a powerful tool for visualizing and exploring widget trees, which might actually get really busy. **Flutter Inspector** is the 
+a powerful tool for visualizing and exploring widget trees, which might get quite complex. **Flutter Inspector** is the 
 tool that helps to visualize, explore, and debug Flutter UIs. It helps to manage bidirectional mapping between an active Flutter UI and 
 the corresponding visualization of the widgets tree and the Render Tree. Such approach allows you to follow this mapping into the source 
 itself, so you can actually see where in the code (whether it is your code or the the framework code) a widget is being created or 
