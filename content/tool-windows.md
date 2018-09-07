@@ -1,10 +1,6 @@
 # Tool Windows
 
-When you work on Flutter projects, IntelliJ IDEA offers you Flutter and Dart-specific tool windows that help you to control the 
-development process. Widgets are the core building blocks in Flutter (everything-is-a-widget concept), so it was important to provide 
-developers with tools for visualizing and exploring widget trees, managing widgets efficiently, and ensuring that the structure is 
-correct. Flutter runs on Dart, so delivering the proper code analysis was a crucial point as well. As a result, the code analysis is 
-performed automatically, displaying the messages for you in a special tool window.
+IntelliJ IDEA offers you Flutter and Dart-specific tool windows that help you to control the development process. Widgets are the core building blocks in Flutter (everything-is-a-widget concept), so it was important to provide developers with tools for visualizing and exploring widget trees, managing widgets efficiently, and ensuring that the structure is correct. Flutter runs on Dart, so delivering the proper code analysis was a crucial point as well. As a result, the code analysis is performed automatically, displaying the messages for you in a special tool window.
 
 ## Flutter Outline Tool Window
 
