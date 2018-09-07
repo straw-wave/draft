@@ -11,7 +11,7 @@ connection use the ``flutter doctor`` command in the console: it will provide yo
 
 ## Running application
 
-To run your application and check its look-and-feel and performance, use the buttons in the upper-right corner of the main IDE window. 
+To run your application and check its look-and-feel and performance, you can use the buttons in the upper-right corner of the main IDE window. 
 <p align="center">
 <img src="https://github.com/straw-wave/draft/blob/master/img/5_run_app_toolbar.png" alt="Allowed values" width="590"/>
 </p>
@@ -32,6 +32,11 @@ debugging and profiling tool shipped with the Dart SDK) for profiling your appli
 (Mac OS) to view the changes implemented in the app right away.
 - If necessary, you can attach a debugger to your application process.
 - Stop the application.
+
+In addition, you can use **Terminal** in IntelliJ to run Flutter code using the ``flutter run``, ``flutter run --release``, ``flutter run --profile``, and ``flutter test`` commands. 
+<p align="center">
+<img src="https://github.com/straw-wave/draft/blob/master/img_final/5_terminal.png" alt="Allowed values" width="900"/>
+</p>
 
 ---
 
