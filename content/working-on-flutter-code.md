@@ -83,6 +83,12 @@ In case if a Dart library that is required in your project has not been imported
 <img src="https://github.com/straw-wave/draft/blob/master/img_final/4_import_library.png" alt="Packages get" width="500"/>
 </p>
 
+## Postfix Completion
+The Dart plugin comes with a number of Postfix Completions templates, so make sure to take a look at them. 
+<p align="center">
+<img src="https://github.com/straw-wave/draft/blob/master/img_final/4_postfix_completion.png" alt="Postfix Completion" width="700"/>
+</p>
+
 ---
 
 **Next:** [Run](https://github.com/straw-wave/draft/blob/master/content/running-apps.md) you project and see the result.
