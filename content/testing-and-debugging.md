@@ -34,9 +34,8 @@ The following features are at your disposal:
 To activate this mode click <img src="https://github.com/straw-wave/draft/blob/master/img_final/5_select_widget_mode.png" alt="Select Widget Mode" width="18"/> button. Now you can select a widget that you are interested in, so when you interact with your device, you are not interacting with the application directly, but you can see which widget is responsible for a specific position on the screen. Now you can see the tree of widgets, the widget's position, and its properties. 
 >**Tip:** hover over a property value to see the list of allowed values. When you perform a hot reload, the Inspector will update the widget properties accordingly.
 
-|         |            |
-| ------------- |:-------------:|
-| ![Allowed values](https://github.com/straw-wave/draft/blob/master/img_final/5_allowed_values.png)|<img src="https://github.com/straw-wave/draft/blob/master/img_final/5_allowed_values_2.png" alt="Allowed values" width="590"/>| 
+| ![Allowed values](https://github.com/straw-wave/draft/blob/master/img_final/5_allowed_values.png)|<img src="https://github.com/straw-wave/draft/blob/master/img_final/5_allowed_values_2.png" alt="Allowed values" width="590"/>|
+--- | ---
 
 ### Refresh Widget Info
 Click <img src="https://github.com/straw-wave/draft/blob/master/img_final/5_refresh.png" alt="Refresh Widget Info" width="18"/> button to update the widget information that is displayed in Flutter Insptector. The widget tree will show the selected widget in case if you have scrolled the list to another position.  
@@ -95,9 +94,8 @@ When this feature is enabled, the nodes that are displayed in two panes of Flutt
 In case if there is a problem with rendering of a UI element, you can switch to the **Render Tree** tab. Note that the **Widgets** and **Render Tree** tabs are connected, which means that if you have selected a widget and switch between tabs, you will get the data about the same widget. 
 >**Tip:** If you have animations in your application, the Render Tree will display the values being changed on-the-fly. 
 
-|         |            |
-| ------------- |:-------------:|
-|<img src="https://github.com/straw-wave/draft/blob/master/img_final/5_widgets-render_tree_1.png" alt="Allowed values" width="590"/>|<img src="https://github.com/straw-wave/draft/blob/master/img_final/5_widgets-render_tree_2.png" alt="Allowed values" width="590"/>| 
+|<img src="https://github.com/straw-wave/draft/blob/master/img_final/5_widgets-render_tree_1.png" alt="Allowed values" width="590"/>|<img src="https://github.com/straw-wave/draft/blob/master/img_final/5_widgets-render_tree_2.png" alt="Allowed values" width="590"/>|
+--- | ---
 
 ## Dart Analysis Tool Window
 
