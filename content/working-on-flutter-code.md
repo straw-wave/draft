@@ -30,7 +30,7 @@ In addition, IntelliJ IDEA offers alternative widgets management opportunities: 
 ## Converting
 In case if you need to convert ``child`` to ``children``, there is a quick way to do it. Use the ``Alt+Enter`` (Win, Linux) or ``⌘↩`` (Mac OS) shortcuts to open the menu and choose the **Convert to children** option.
 <p align="center">
-<img src="https://github.com/straw-wave/draft/blob/master/img_final/4_convert.png" alt="Convert" width="400"/>
+<img src="https://github.com/straw-wave/draft/blob/master/img_final/4_convert.png" alt="Convert" width="500"/>
 </p>
 
 ## Live Templates 
