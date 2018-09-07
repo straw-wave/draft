@@ -1,6 +1,6 @@
 # Creating applications with Flutter using IntelliJ IDEA
 
-If you worked with Flutter and IntelliJ IDEA, but have not used the Flutter and Dart plugins that were designed for this IDE yet, you might find this document useful. Find the instructions on installing, configuring, and using these plugins and find out how they can speed up your development process.
+This documentation is created for those who worked with Flutter and IntelliJ IDEA, but have not used the Flutter and Dart plugins that were designed for this IDE. Find the instructions on installing, configuring, and using these plugins and find out how they can speed up your development process.
 
 ---
 1. [Installing and setting up Flutter and Dart plugins](https://github.com/straw-wave/draft/blob/master/content/install-and-set-up-plugins.md "")
