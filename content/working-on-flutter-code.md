@@ -84,7 +84,7 @@ In case if a Dart library that is required in your project has not been imported
 </p>
 
 ## Postfix Completion
-The Dart plugin comes with a number of Postfix Completions templates, so make sure to take a look at them. 
+The Dart plugin comes with a number of **Postfix Completion** templates, so make sure to take a look at them. To see the list of templates press ``Ctrl+Alt+S`` (Win, Linux) or ``⌘,`` (Mac OS) to open the **Settings** dialog and go to **Editor | General | Postfix Completion**.
 <p align="center">
 <img src="https://github.com/straw-wave/draft/blob/master/img_final/4_postfix_completion.png" alt="Postfix Completion" width="700"/>
 </p>
