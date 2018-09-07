@@ -21,9 +21,8 @@ For instance, you can modify a module name, set up the module content root and m
 project format.
 11. Click **Finish**.
 
-|         |            |
-| ------------- |:-------------:|
 |<img src="https://github.com/straw-wave/draft/blob/master/img_final/4_new_project.png" alt="Allowed values" width="590"/>|<img src="https://github.com/straw-wave/draft/blob/master/img_final/4_new_project_2.png" alt="Allowed values" width="590"/>| 
+--- | ---
 
 ## Creating a project containing existing source code files
 
