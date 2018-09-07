@@ -64,19 +64,18 @@ invocation. The IDE displays special comments denoting classes and widgets.
 <img src="https://github.com/straw-wave/draft/blob/master/img_final/4_comments.png" alt="System Comments" width="500"/>
 </p>
 
-## Packages
-There are numerous open-source packages that you can use in your projects. Thus, when you add a package name into the dependencies list (``pubspec.yaml``), IntelliJ IDEA allows to pull the package into the project in an elegant way: just click **Packages get** at the top of the window. 
+## Flutter commands
+Invoking Flutter commands can be done quickly: just click the required action at the top of the ``pubspec.yaml`` window. You can install referenced packages (the ``Packages get`` command), upgrade them to the latest version (the ``Packages upgrade`` command), upgrade the Flutter framework itself (the ``Flutter upgrade``), and validate the installed tools and check their versions (the ``Flutter doctor`` command).
 <p align="center">
 <img src="https://github.com/straw-wave/draft/blob/master/img_final/4_packages_get.png" alt="Packages get" width="800"/>
 </p>
 
-The console should display the output of the following kind:
+## Packages
+There are numerous open-source packages that you can use in your projects. Thus, when you add a package name into the dependencies list (``pubspec.yaml``), IntelliJ IDEA allows to pull the package into the project in an elegant way: just click **Packages get** at the top of the window. The console should display the output of the following kind:
 ```
 Running "flutter packages get" in demo_project... 
 Process finished with exit code 0
 ```
-## Flutter commands
-Invoking Flutter commands can be done quickly: just click the required action at the top of the ``pubspec.yaml`` page. As it was mentioned above, you can install referenced packages (the ``Packages get`` command). Additionally, you can upgrade them to the latest version (the ``Packages upgrade`` command), upgrade the Flutter framework itself (the ``Flutter upgrade``), and validate the installed tools and check their versions (the ``Flutter doctor`` command).
 
 ## Importing libraries
 In case if a Dart library that is required in your project has not been imported yet, the IDE can perform this for you. Press ``Alt+Enter`` (Win, Linux) or ``⌘↩`` (Mac OS) and select the library you need.
