@@ -18,8 +18,10 @@ a powerful tool for visualizing and exploring widget trees, which might get quit
 tool that helps to visualize, explore, and debug Flutter UIs. It helps to manage bidirectional mapping between an active Flutter UI and 
 the corresponding visualization of the widgets tree and the Render Tree. Such approach allows you to follow this mapping into the source 
 itself, so you can actually see where in the code (whether it is your code or the the framework code) a widget is being created or 
-configured. This way, even the huge widgets tree can be handled in an elegant way: selecting a widget of your interest helps both to 
-navigate at ease and to save time.
+configured. The **Flutter Inspector** displays widgets that were created directly in your application in Bold, so it is easier for you to distinguish between widgets created in the app and in the framework.
+
+This way, even the huge widgets tree can be handled in an elegant way: selecting a widget of your interest helps both to 
+navigate at ease and to save time.   
 
 So, you have your application running and you want to inspect it, check the layouts, widgets, and performance. To open the tool, 
 click **Flutter Inspector** on the right side of the main IDE window (alternatively, you can choose **View | Tool Windows | Flutter 
