@@ -18,7 +18,7 @@ The developers working in IntelliJ IDEA are provided with the **Flutter Inspecto
 
 ## Dart Analysis
 This tool window allows to monitor issues that might arise during the project development. The performance of this feature is based on 
-the **Dart Analysis server**, a local server (shipped as a part of the Dart SDK) that provides the essential data and functionality for the IDE: code completion, structure view, warnings, syntax highlighting and so on. To open the tool, click **Dart Analysis** at the bottom of the main IDE window (or choose **View | Tool Windows | Dart Analysis** on the main menu).
+the **Dart Analysis Server**, a local server (shipped as a part of the Dart SDK) that provides the essential data and functionality for the IDE: code completion, navigation, structure view, warnings, syntax highlighting and so on. Moreover, the **Dart Analysis Server** provides the plugin framework, which allows the Flutter plugin to transfer its sets of information, including warnings, messages, and code completions. To open this tool window, click **Dart Analysis** at the bottom of the main IDE window (or choose **View | Tool Windows | Dart Analysis** on the main menu).
 <p align="center">
 <img src="https://github.com/straw-wave/draft/blob/master/img_final/2_dart_analysis_tool_window.png" alt="Dart Analysis Tool Window"/>
 </p>
