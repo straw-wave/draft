@@ -25,7 +25,7 @@ So, you have your application running and you want to inspect it, check the layo
 click **Flutter Inspector** on the right side of the main IDE window (alternatively, you can choose **View | Tool Windows | Flutter 
 Inspector**). Use the toolbar to interact with elements of an app and to switch between Inspector tabs:
 <p align="center">
-<img src="https://github.com/straw-wave/draft/blob/master/img_final/5_inspector_toolbar_2.png" alt="Inspector Toolbar"/>
+<img src="https://github.com/straw-wave/draft/blob/master/img_final/5_inspector_toolbar_2.png" width="600" alt="Inspector Toolbar"/>
 </p>
 
 The following features are at your disposal: 
