@@ -15,7 +15,7 @@ If you worked with Flutter and IntelliJ IDEA, but have not used the Flutter and 
     * [Working with Widgets](https://github.com/straw-wave/draft/blob/master/content/working-on-flutter-code.md#flutter-outline)
     * [Using Flutter Live Templates](https://github.com/straw-wave/draft/blob/master/content/working-on-flutter-code.md#live-templates)
     * [Reformatting Code](https://github.com/straw-wave/draft/blob/master/content/working-on-flutter-code.md#reformatting-your-code)
-    * [Working with Packages and Libraries](https://github.com/straw-wave/draft/blob/master/content/working-on-flutter-code.md#using-packages)
+    * [Flutter Commands](https://github.com/straw-wave/draft/blob/master/content/working-on-flutter-code.md#flutter-commands)
 4. [Running applications](https://github.com/straw-wave/draft/blob/master/content/running-apps.md)
 5. [Testing and debugging](https://github.com/straw-wave/draft/blob/master/content/testing-and-debugging.md)
     * [Debugging Flutter UI](https://github.com/straw-wave/draft/blob/master/content/testing-and-debugging.md#flutter-inspector)
