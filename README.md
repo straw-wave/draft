@@ -5,7 +5,7 @@ If you worked with Flutter and IntelliJ IDEA, but have not used the Flutter and 
 ---
 1. [Installing and setting up Flutter and Dart plugins](https://github.com/straw-wave/draft/blob/master/content/install-and-set-up-plugins.md "")
     * [Installation](https://github.com/straw-wave/draft/blob/master/content/install-and-set-up-plugins.md#plugins-installation)
-    * [Configuration](https://github.com/straw-wave/draft/blob/master/content/install-and-set-up-plugins.md#initial-plugins-configuration)
+    * [Configuration](https://github.com/straw-wave/draft/blob/master/content/install-and-set-up-plugins.md#plugins-configuration)
 2. [Tool windows](https://github.com/straw-wave/draft/blob/master/content/tool-windows.md "")
     * [Flutter Outline](https://github.com/straw-wave/draft/blob/master/content/tool-windows.md#flutter-outline-tool-window)
     * [Flutter Inspector](https://github.com/straw-wave/draft/blob/master/content/tool-windows.md#flutter-inspector-tool-window)
