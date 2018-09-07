@@ -22,10 +22,8 @@ a few steps using the Outline tool:
 2. Click the **Center widget** button on the toolbar.
 3. Perform **Hot Reload** to see the changes.
 
-|         |            |
-| ------------- |:-------------:|
-|<img src="https://github.com/straw-wave/draft/blob/master/img_final/4_center_widget.gif" alt="" width=""/>)|<img src="https://github.com/straw-wave/draft/blob/master/img_final/4_center_widget_demo.gif" alt="" width="350"/>| 
-
+<img src="https://github.com/straw-wave/draft/blob/master/img_final/4_center_widget.gif" alt="" width=""/>|<img src="https://github.com/straw-wave/draft/blob/master/img_final/4_center_widget_demo.gif" alt="" width="340"/>|
+--- | --- |
 
 
 This way, you can center you widgets, add padding, wrap widgets with columns and rows, extract methods, move widgets up and down, and 
