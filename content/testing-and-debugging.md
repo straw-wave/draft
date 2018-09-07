@@ -11,6 +11,11 @@ To run your application in the Debug Mode, click the <img src="https://github.co
 <img src="https://github.com/straw-wave/draft/blob/master/img_final/6_debug_mode.png" alt="Debug Mode"/>
 </p>
 
+Now you can use the **Debugger** to view the data on frames and variables. 
+<p align="center">
+<img src="https://github.com/straw-wave/draft/blob/master/img_final/6_debugger.png" alt="Debug Mode"/>
+</p>
+
 ## Flutter Inspector
 
 Widgets are used as the core building blocks in Flutter (everything-is-a-widget concept), so it was important to provide developers with 
