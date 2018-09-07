@@ -5,10 +5,7 @@ framework assistance allow to improve your productivity. Moreover, there are too
 working on Dart and Flutter code.
 
 ## Flutter Outline
-The core building blocks in Flutter applications are widgets (everything-is-a-widget concept), so developers will work with these blocks 
-a lot. That is why it is important to deliver a powerful tool that could help manage widgets quickly and efficiently and ensure that the 
-structure remains correct. **Flutter Outline** is the right tool for these purposes. To open it, click **Flutter Outline** on the right 
-side of the main IDE window (alternatively, you can choose **View | Tool Windows | Flutter Outline** on the main menu). To manage your widgets structure, use the toolbar:
+The core building blocks in Flutter applications are widgets (everything-is-a-widget concept), so developers will work with these blocks a lot. That is why it is important to deliver a powerful tool that can help to manage widgets efficiently and ensure that the structure remains correct. To manage your widgets, use the **Flutter Outline** tool. To open it, click **Flutter Outline** on the right side of the main IDE window (alternatively, you can choose **View | Tool Windows | Flutter Outline** on the main menu). You can center you widgets, add padding, wrap widgets with columns and rows, extract methods, move widgets up and down, and remove them.
 <p align="center">
 <img src="https://github.com/straw-wave/draft/blob/master/img_final/4_flutter_outline_toolbar.png" alt="Flutter Outline Toolbar" width="590"/>
 </p>
@@ -22,28 +19,23 @@ side of the main IDE window (alternatively, you can choose **View | Tool Windows
 <img src="https://github.com/straw-wave/draft/blob/master/img_final/4_center_widget.gif" alt="" width=""/>|<img src="https://github.com/straw-wave/draft/blob/master/img_final/4_center_widget_demo.gif" alt="" width="340"/>|
 --- | --- |
 
-Alternatively, you can use the ``Alt+Enter`` (Win, Linux) or  ``⌘↩`` (Mac OS) shortcuts to open the intention actions dialog and select the required action.
-<p align="center">
-<img src="https://github.com/straw-wave/draft/blob/master/img_final/4_center_widget_2.png" alt="Intention Actions" width="400"/>
-</p>
-
 This way, you can center you widgets, add padding, wrap widgets with columns and rows, extract methods, move widgets up and down, and 
 remove them with the help of Flutter Outline. Additionally, you can enable the filtering to show only widgets.  
 
 ## Widget Management
-In addition, IntelliJ IDEA offers alternative widgets management tool: you can add padding, remove a widget, swap it with its parent, 
-wrap it with a new widget, and so on by using the Alt+Enter (Win, Linux) or ⌘↩ (Mac OS) shortcut in the Editor. This method also allows 
-to save your time and it makes sure that the structure of your project remains valid.
-
-![Managing widgets](https://github.com/straw-wave/draft/blob/master/img/3_widget_management.gif)
+In addition, IntelliJ IDEA offers alternative widgets management opportunities: you can add padding, remove a widget, swap it with its parent, wrap it with a new widget, and so on by using the ``Alt+Enter`` (Win, Linux) or ``⌘↩`` (Mac OS) shortcut in the Editor. This method also allows to save your time and it makes sure that the structure of your project remains valid.
+<p align="center">
+<img src="https://github.com/straw-wave/draft/blob/master/img_final/4_center_widget_2.png" alt="Intention Actions" width="400"/>
+</p>
 
 ## Live Templates 
-IntelliJ offers several Flutter Live Templates that simplify adding new Widgets to your project, so you can create Stateless, 
-Stateful, Stateful with AnimationController, and Inherited Widgets much faster. To view the templates available out of the box 
+IntelliJ offers several Flutter Live Templates that simplify adding new widgets to your project, so you can create Stateless, 
+Stateful, Stateful with AnimationController, and Inherited widgets much faster. To view the templates available out of the box 
 press ``Ctrl+Alt+S`` (Win, Linux) or ``⌘,`` (Mac OS) to open the **Settings** dialog and go to **Editor | Live Templates**. 
 Expand the **Flutter** or **Dart** sections to see the samples and modify them, if necessary.
-
-![Live templates](https://github.com/straw-wave/draft/blob/master/img/3_live_template.gif)
+<p align="center">
+<img src="https://github.com/straw-wave/draft/blob/master/img_final/4_live_template.gif" alt="Intention Actions" width="400"/>
+</p>
 
 ## Hot Reload
 
