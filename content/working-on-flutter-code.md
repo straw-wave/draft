@@ -85,4 +85,5 @@ In case if a Dart library that is required in your project has not been imported
 
 ---
 
-**Next:** When the plugins are installed and the environment is configured, you can [create a new project](https://github.com/straw-wave/draft/blob/master/content/creating-projects.md) to start the development process.
+**Next:** These tools should facilitate the development process. Let us take a look at the [features](https://github.com/straw-wave/draft/blob/master/content/working-on-flutter-code.md) that IntelliJ IDEA provides Flutter developers with and figure out the ways you can speed up the applications building.
+
