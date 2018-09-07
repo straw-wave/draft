@@ -69,4 +69,4 @@ Modify existing color schemes or create new ones to make sure that working with 
 
 ---
 
-**Next:** During the stages of your Flutter application development you will work with [tool windows](https://github.com/straw-wave/draft/blob/master/content/tool-windows.md). Some of them will be familiar to developers who have already worked in IntelliJ IDEA, however there are some new tool windows that are designed specifically for Flutter and Dart plugins.
+**Next:** While working on your Flutter application you will interact with [tool windows](https://github.com/straw-wave/draft/blob/master/content/tool-windows.md). Some of them will be familiar to developers who have already worked in IntelliJ IDEA, however there are some new tool windows that are designed specifically for Flutter and Dart plugins.
