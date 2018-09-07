@@ -18,9 +18,7 @@ a powerful tool for visualizing and exploring widget trees, which might get quit
 tool that helps to visualize, explore, and debug Flutter UIs. It helps to manage bidirectional mapping between an active Flutter UI and 
 the corresponding visualization of the widgets tree and the Render Tree. Such approach allows you to follow this mapping into the source 
 itself, so you can actually see where in the code (whether it is your code or the the framework code) a widget is being created or 
-configured. The **Flutter Inspector** displays widgets that were created directly in your application in Bold, so it is easier for you to distinguish between widgets created in the app and in the framework.
-
-This way, even the huge widgets tree can be handled in an elegant way: selecting a widget of your interest helps both to 
+configured. The **Flutter Inspector** displays widgets that were created directly in your application in Bold, so it is easier for you to distinguish between widgets created in the app and in the framework. This way, even the huge widgets tree can be handled in an elegant way: selecting a widget of your interest helps both to 
 navigate at ease and to save time.   
 
 So, you have your application running and you want to inspect it, check the layouts, widgets, and performance. To open the tool, 
@@ -29,8 +27,6 @@ Inspector**). Use the toolbar to interact with elements of an app and to switch 
 <p align="center">
 <img src="https://github.com/straw-wave/draft/blob/master/img_final/5_inspector_toolbar_2.png" width="600" alt="Inspector Toolbar"/>
 </p>
-
-The following features are at your disposal: 
 
 ### Select Widget Mode
 To activate this mode click <img src="https://github.com/straw-wave/draft/blob/master/img_final/5_select_widget_mode.png" alt="Select Widget Mode" width="18"/> button. Now you can select a widget that you are interested in, so when you interact with your device, you are not interacting with the application directly, but you can see which widget is responsible for a specific position on the screen. Now you can see the tree of widgets, the widget's position, and its properties. 
