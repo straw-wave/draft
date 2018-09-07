@@ -10,8 +10,9 @@ a lot. That is why it is important to deliver a powerful tool that could help ma
 structure remains correct. **Flutter Outline** is the right tool for these purposes. To open it, click **Flutter Outline** on the right 
 side of the main IDE window (alternatively, you can click **View > Tool Windows > Flutter Outline**). To manage your widgets structure, 
 use the toolbar:
-
-![Flutter Outline Tool Window](https://github.com/straw-wave/draft/blob/master/img/3_outline_toolbar.png)
+<p align="center">
+<img src="https://github.com/straw-wave/draft/blob/master/img_final/4_flutter_outline_toolbar.png" alt="Flutter Outline Toolbar" width="590"/>
+</p>
 
 **Flutter Outline** allows you to both view the structure of your application and to modify it, if necessary. When you use this tool, the 
 IDE will make sure that the structure is correct, so you can avoid typos or forgotten symbols. For instance, you can center a widget in 
@@ -21,7 +22,11 @@ a few steps using the Outline tool:
 2. Click the **Center widget** button on the toolbar.
 3. Perform **Hot Reload** to see the changes.
 
-![Managing widgets](https://github.com/straw-wave/draft/blob/master/img/3_outline_manage_widgets.gif)
+|         |            |
+| ------------- |:-------------:|
+|<img src="https://github.com/straw-wave/draft/blob/master/img_final/4_center_widget.gif" alt="" width=""/>)|<img src="https://github.com/straw-wave/draft/blob/master/img_final/4_center_widget_demo.gif" alt="" width="350"/>| 
+
+
 
 This way, you can center you widgets, add padding, wrap widgets with columns and rows, extract methods, move widgets up and down, and 
 remove them with the help of Flutter Outline. Additionally, you can enable the filtering to show only widgets.  
