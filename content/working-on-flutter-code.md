@@ -43,6 +43,9 @@ latest changes.
 You can easily reformat your code to make sure the proper Dart style is used. To do so, use the **dartfmt** command: it is possible to 
 find it using the Find Action dialog (use the ``Ctrl+Shift+A`` (Win, Linux) or ``⌘⇧A`` (Mac OS) shortcut) or choose the 
 **Reformat Code with dartfmt** option from the right-click menu.
+<p align="center">
+<img src="https://github.com/straw-wave/draft/blob/master/img_final/4_dartfmt.png" alt="Reformat Code with dartfmt" width="500"/>
+</p>
 
 ## Trailing commas
 Using the trailing commas can be a good solution if your code includes multiple tree-shaped blocks. Add a trailing comma at the 
