@@ -6,14 +6,9 @@ specifically for Dart and Flutter. Some of them run in background, like the Dart
 tools, for instance, include **Flutter Inspector** and **Observatory**. You can use them to test, analyze, and debug your application.
 
 ## Debug Mode
-To run your application in the Debug Mode, click the <img src="https://github.com/straw-wave/draft/blob/master/img_final/6_debug_icon.png" alt="Debug" width="18"/> icon in the upper-right corner of the main IDE window. This mode includes all debugging information, enables Observatory and service extensions. 
+To run your application in the Debug Mode, click the <img src="https://github.com/straw-wave/draft/blob/master/img_final/6_debug_icon.png" alt="Debug" width="18"/> icon in the upper-right corner of the main IDE window. This mode includes all debugging information, enables Observatory and service extensions. Now you can use the **Debugger** to view the data on frames and variables. 
 <p align="center">
-<img src="https://github.com/straw-wave/draft/blob/master/img_final/6_debug_mode.png" alt="Debug Mode"/>
-</p>
-
-Now you can use the **Debugger** to view the data on frames and variables. 
-<p align="center">
-<img src="https://github.com/straw-wave/draft/blob/master/img_final/6_debugger.png" alt="Debug Mode"/>
+<img src="https://github.com/straw-wave/draft/blob/master/img_final/6_debugger.png" alt="Debugger" width="700"/>
 </p>
 
 ## Flutter Inspector
