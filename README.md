@@ -3,7 +3,7 @@
 This documentation is created for those developers who worked with Flutter and IntelliJ IDEA, but have not used the Flutter and Dart plugins. View the instructions on installing, configuring, and using these plugins and find out how they can speed up your development process.
 
 ---
-1. [Installing and setting up Flutter and Dart plugins](https://github.com/straw-wave/draft/blob/master/content/install-and-set-up-plugins.md "")
+1. [Install and set up Flutter and Dart plugins](https://github.com/straw-wave/draft/blob/master/content/install-and-set-up-plugins.md "")
     * [Installation](https://github.com/straw-wave/draft/blob/master/content/install-and-set-up-plugins.md#plugins-installation)
     * [Configuration](https://github.com/straw-wave/draft/blob/master/content/install-and-set-up-plugins.md#plugins-configuration)
 2. [Tool windows](https://github.com/straw-wave/draft/blob/master/content/tool-windows.md "")
