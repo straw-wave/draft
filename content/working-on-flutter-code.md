@@ -45,7 +45,7 @@ In case if you need to convert ``child`` to ``children``, there is a quick way t
 </p>
 
 ## Live Templates 
-IntelliJ offers several Flutter Live Templates that simplify adding new widgets to your project, so you can create Stateless (``stless``), Stateful (``stful``), Stateful with AnimationController (``stanim``), and Inherited (``inh``) widgets much faster. To view the templates available out of the box press ``Ctrl+Alt+S`` (Win, Linux) or ``⌘,`` (Mac OS) to open the **Settings** dialog and go to **Editor | Live Templates**. Expand the **Flutter** or **Dart** sections to see the samples and modify them, if necessary.
+IntelliJ offers several Flutter Live Templates that simplify adding new widgets to your project, so you can create **Stateless** (``stless``), **Stateful** (``stful``), **Stateful with AnimationController** (``stanim``), and **Inherited** (``inh``) widgets much faster. To view the templates available out of the box press ``Ctrl+Alt+S`` (Win, Linux) or ``⌘,`` (Mac OS) to open the **Settings** dialog and go to **Editor | Live Templates**. Expand the **Flutter** or **Dart** sections to see the samples and modify them, if necessary.
 <p align="center">
 <img src="https://github.com/straw-wave/draft/blob/master/img_final/4_live_template.gif" alt="Intention Actions" width="400"/>
 </p>
