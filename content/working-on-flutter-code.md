@@ -27,11 +27,15 @@ Another way to look at the structure of your project is to use the **Structure V
 <img src="https://github.com/straw-wave/draft/blob/master/img_final/4_structure_view.png" alt="Convert" width="900"/>
 </p>
 
-
 ## Widget Management
-In addition, IntelliJ IDEA offers alternative widgets management opportunities: you can add padding, remove a widget, swap it with its parent, wrap it with a new widget, and so on by using the ``Alt+Enter`` (Win, Linux) or ``⌘↩`` (Mac OS) shortcut in the Editor. This method also allows to save your time and it makes sure that the structure of your project remains valid.
+In addition, IntelliJ IDEA offers alternative widgets management opportunities: you can add padding, remove a widget, swap it with its parent, wrap it with a new widget, and so on by using the ``Alt+Enter`` (Win, Linux) or ``⌘↩`` (Mac OS) shortcut in the Editor. This method also allows to save your time and it makes sure that the structure of your project remains valid. For instance, you can center a widget using either the **Center widget** option:
 <p align="center">
 <img src="https://github.com/straw-wave/draft/blob/master/img_final/4_center_widget_2.png" alt="Center Widget" width="400"/>
+</p>
+
+Alternatively, you can use select **Wrap with new widget** option, which allows to implement any valid widget. In this very example, it is possible to use the same ``Center`` widget:
+<p align="center">
+<img src="https://github.com/straw-wave/draft/blob/master/img_final/4_wrap_widget.gif" alt="Wrap With New Widget" width="500"/>
 </p>
 
 ## Converting
