@@ -21,8 +21,8 @@ The core building blocks in Flutter applications are widgets (everything-is-a-wi
 
 >**Note:** Click the <img src="https://github.com/straw-wave/draft/blob/master/img_final/4_filter.png" alt="" width="18"/> icon in the upper-right corner of the **Flutter Outline** tool window to enable the filtering to show only widgets.
 
-## Structure view
-Another way to look at the structure of your project is to use the **Structure View**. This view is based on the **Dart Analysis Server**.
+## Structure View
+Another way to look at the structure of your project is to use the **Structure View**. To open it, click **Structure** on the left side of the main IDE window (alternatively, you can choose **View | Tool Windows | Structure** on the main menu). This view is based on the **Dart Analysis Server** and when you select a widget in the structure tree, the **Editor** will jump to the correponding lines in your code.
 <p align="center">
 <img src="https://github.com/straw-wave/draft/blob/master/img_final/4_structure_view.png" alt="Convert" width="900"/>
 </p>
