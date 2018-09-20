@@ -65,3 +65,10 @@ In addition, you can use **Terminal** in IntelliJ to run Flutter code using the 
 
 **Next:** Flutter and Dart plugins offer a number of [testing and debugging tools](https://github.com/straw-wave/draft/blob/master/content/testing-and-debugging.md) that will help you improve your application.  
 
+
+Action | Description
+--- | --- 
+**Running application** | To run your application and check its look-and-feel and performance, you can use the buttons in the upper-right corner of the main IDE window. <p align="center"><img src="https://github.com/straw-wave/draft/blob/master/img/5_run_app_toolbar.png" alt="Toolbar" width="590"/></p>
+**Building project** | You can build your project either by clicking a hammer button or by using the the ``Ctrl+F9`` (Win, Linux) or ``⌘F9`` (Mac OS) shortcuts.	
+**Selecting Flutter device** | Select the device that you want to use for running your app
+**Configuring running/debugging** | Configure your Run/Debug options. You can actually perform a fine tuning: set the entrypoint for your application, set additional command-line arguments, manage build flavor, and add tasks that should run before the launch. <p align="center"><img src="https://github.com/straw-wave/draft/blob/master/img_final/5_run_debug_configuration.png" alt="Run/Debug Configuration" width="650"/></p>
